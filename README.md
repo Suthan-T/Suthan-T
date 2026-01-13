@@ -1,6 +1,6 @@
 # Hi 👋, I'm Suthan T
 
-![Profile Views](https://komarev.com/ghpvc/?username=SuthanT&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Suthan-T&label=Profile%20views&style=flat)
 
 🎓 Computer Science Engineering Student  
 💻 Aspiring Software Engineer | Self-Learner  
@@ -52,15 +52,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suthan-T&show_icons=true&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suthan-T&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suthan-T" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Suthan-T&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Suthan-T&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suthan-T&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=Suthan-T" />
 </p>
 
 ---
