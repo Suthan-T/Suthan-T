@@ -52,15 +52,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SuthanT&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Suthan-T&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuthanT" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suthan-T" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuthanT&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suthan-T&layout=compact" />
 </p>
 
 ---
